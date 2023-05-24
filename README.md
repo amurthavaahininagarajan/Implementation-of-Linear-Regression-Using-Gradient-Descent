@@ -17,8 +17,9 @@ To write a program to predict the profit of a city using the linear regression m
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: 212222240008
-RegisterNumber: AMURTHA VAAHINI.KN
+Developed by: AMURTHA VAAHINI.KN
+RegisterNumber: 212222240008
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -83,10 +84,16 @@ print("For population = 35,000 , we predict a profit of $"+str(round(predict1,0)
 
 predict2=predict(np.array([1,7]),theta)*10000
 print("For population = 70,000 , we predict a profit of $"+str(round(predict2,0)))
-*/
+*/ 
 ```
-
 ## Output:
+![image](https://github.com/amurthavaahininagarajan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118679102/8ee96604-c1e2-481e-98f9-afb56e3d074b)
+![image](https://github.com/amurthavaahininagarajan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118679102/fd68047e-b5b0-4d59-98e0-108f9ae616e9)
+![image](https://github.com/amurthavaahininagarajan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118679102/5c15b1bc-197e-463d-9812-eff5752021f4)
+![image](https://github.com/amurthavaahininagarajan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118679102/a926d775-fd89-4a7a-854f-f10722d603fd)
+![image](https://github.com/amurthavaahininagarajan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118679102/444d2d46-93ef-4beb-b0f8-c9d68f3b3cc7)
+![image](https://github.com/amurthavaahininagarajan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/118679102/7e5b10fa-599b-4f51-bcc1-fac3cc8fcb0c)
+
 
 
 
